@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name all-in-one)(type Legacy)(uri ${KIPRJMOD}/libraries/all-in-one.lib)(options "")(descr ""))
+)
